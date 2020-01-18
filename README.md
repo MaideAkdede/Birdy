@@ -7,7 +7,7 @@ Doit être une application mobile comme une encyclopédie regrouppant des oiseau
 
 ## Options en ajoutées
 
-1. Connexion & Inscription 
-  - Donner la possibilité aux membres "non-agrés" de pouvoir accéder à l'application sans pour autant en modifier le contenu
-2. Communication (messagerie)
-  - Permettre aux membres agrés (uniquement) de pouvoir communiquer entre eux et de pouvoir se contacter (par mail, ou par l'application)
+* Connexion & Inscription 
+  * Donner la possibilité aux membres "non-agrés" de pouvoir accéder à l'application sans pour autant en modifier le contenu
+* Communication (messagerie)
+  * Permettre aux membres agrés (uniquement) de pouvoir communiquer entre eux et de pouvoir se contacter (par mail, ou par l'application)
