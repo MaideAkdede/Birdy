@@ -5,7 +5,7 @@ Doit être une application mobile comme une encyclopédie regrouppant des oiseau
 2. [Voir le wireframe de Birdy en ligne](https://xd.adobe.com/view/b720a1e0-b95b-4fe7-45ab-f542b79055b5-c111/)
 3. [Voir le Design de Birdy en ligne](https://xd.adobe.com/view/0eeab4a0-9a5b-4dd2-5b1c-7c8afc69695d-78db/)
 
-## Options en ajoutées
+## Options ajoutées
 
 * Connexion & Inscription 
   * Donner la possibilité aux membres "non-agrés" de pouvoir accéder à l'application sans pour autant en modifier le contenu
